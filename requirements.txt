@@ -1,0 +1,5 @@
+wheel
+setuptools
+PyQt5
+selenium
+webdriver_manager
