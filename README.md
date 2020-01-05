@@ -1,11 +1,12 @@
 ---
-tags: Website-Filter-Testing-Tool, ChromeDrive
+tags: project, Website-Filter-Testing-Tool, ChromeDrive
 ---
 website-filter 
 ===
 - A testing tool for websites filter which develope by Taiwan MoE.
 - Only support chrome.
-- If there are some problem, please contact me by using the <a mailto:hanhan3927@gmail.com>mail</a>
+- If there are some problem, please contact me by using the 
+<a href=mailto:hanhan3927@gmail.com>mail</a>
 
 ## Build the Program
 - Please reference the "<b>Note</b>"
